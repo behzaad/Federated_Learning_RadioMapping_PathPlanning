@@ -1,4 +1,4 @@
-# Federated_Learning_UAV
+# Federated_Learning_for_RadioMapping_PathPlanning
 
 This repository contains the Pytorch implementation of the radio mapping and path planning algorithm proposed in [1]. 
 
